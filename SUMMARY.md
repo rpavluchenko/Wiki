@@ -7,3 +7,4 @@
 ***
 
 * [📦 Клетка для жителей](kletka-dlya-zhitelei.md)
+* [💿Кастомные диски](kastomnye-diski.md)
