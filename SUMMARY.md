@@ -12,3 +12,4 @@
 * [🏆 Достижения и награды за время](dostizheniya-i-nagrady-za-vremya.md)
 * [🥣 Котёл-преобразователь](kotyol-preobrazovatel.md)
 * [🪔 Кастомные зачарования](kastomnye-zacharovaniya.md)
+* [💰 Банковская система](bankovskaya-sistema.md)
