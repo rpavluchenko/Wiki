@@ -15,7 +15,7 @@ description: >-
 
 **📜 Рецепт:**<br>
 
-<figure><img src=".gitbook/assets/Screenshot_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_3.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

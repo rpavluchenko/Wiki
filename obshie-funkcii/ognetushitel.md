@@ -11,7 +11,7 @@ description: >-
 
 ### Крафт
 
-<div align="left"><figure><img src=".gitbook/assets/javaw_kOqEcIkRPK.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/javaw_kOqEcIkRPK.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Носится в руке. Стакается только по 1 штуке.
