@@ -17,8 +17,10 @@
 * [📦 Раздатчик-строитель](obshie-funkcii/razdatchik-stroitel.md)
 * [🥣 Котёл-преобразователь](obshie-funkcii/kotyol-preobrazovatel.md)
 * [💣 Метательный динамит](obshie-funkcii/metatelnyi-dinamit.md)
-* [🖼️ Редактирование рамок](obshie-funkcii/redaktirovanie-ramok.md)
+* [🧨 Петарда](obshie-funkcii/petarda.md)
+* [👋 Шлепки](obshie-funkcii/shlepki.md)
 * [🚶 Скорость ходьбы](obshie-funkcii/skorost-khodby.md)
+* [🖼️ Редактирование рамок](obshie-funkcii/redaktirovanie-ramok.md)
 
 ## 👑 C привилегией плюс+
 
