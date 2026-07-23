@@ -7,6 +7,7 @@
 ## ⚙️ Общие функции
 
 * [💰 Банковская система](obshie-funkcii/bankovskaya-sistema.md)
+* [📻 Радио](obshie-funkcii/radio.md)
 * [🪔 Кастомные зачарования](obshie-funkcii/kastomnye-zacharovaniya.md)
 * [📃 Листовка](obshie-funkcii/listovka.md)
 * [🧯 Огнетушитель](obshie-funkcii/ognetushitel.md)

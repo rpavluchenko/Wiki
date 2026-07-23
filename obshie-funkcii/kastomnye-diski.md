@@ -7,6 +7,10 @@ description: >-
 
 # 💿Кастомные диски
 
+{% hint style="warning" %}
+Для работы радио необходим мод **Simple Voice Chat** на клиенте.
+{% endhint %}
+
 ### ✍️ **Команды**
 
 ```
