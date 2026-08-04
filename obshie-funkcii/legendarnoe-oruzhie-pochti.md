@@ -48,6 +48,43 @@ description: >-
 | Красная Молния                 | Red Lightning                |
 | Прямой Меч                     | Straight Sword               |
 | Крылатая Коса                  | Winged Scythe                |
+| Меч Аспекта Эфира              | Aspect of Aether Sword       |
+| Меч Пчелиных Сот               | Beecomb Sword                |
+| Топор Тёмной Луны              | Dark Moon Axe                |
+| Хватка Смерти                  | Death Grip                   |
+| Кузнечный Молот                | Forge Hammer                 |
+| Топор Адского Отродья          | Hellspawn Axe                |
+| Последняя Роза                 | Last Rose                    |
+| Меч Некроманта                 | Necromancer Sword            |
+| Океанский Меч                  | Ocean Sword                  |
+| Цветущее Безумие               | Flowering Madness            |
+| Топор Горгульи                 | Gargoyle Axe                 |
+| Боевой Штандарт                | Battle Standart              |
+| Великий Меч                    | Great Sword (v4)             |
+| Кинжал Разбойника              | Rogue Dagger                 |
+| Левый Кинжал Разбойника        | Rogue Dagger Left            |
+| Ведьмина Коса                  | Witch Scythe                 |
+| Клинок Бездны                  | Abyssal Blade                |
+| Посох Боевого Мага             | Battle Mage Staff            |
+| Огненная Булава                | Fire Mace                    |
+| Проклятый Меч                  | Cursed Sword                 |
+| Тёмный Меч                     | Dark Sword                   |
+| Демонический Клинок            | Demonic Blade                |
+| Священное Копьё                | Holy Spear                   |
+| Клинок Каз                     | Kaz Sc                       |
+| Магнитный Клинок               | Magnetic Blade               |
+| Топор Маны                     | Mana Axe                     |
+| Разносчик Мора                 | Pox Spreader                 |
+| Красный Молот                  | Red Hammer                   |
+| Аметистовый Топор              | Amethyst Axe                 |
+| Бамбуковое Копьё               | Bamboo Spear                 |
+| Пчелиный Кинжал                | Bee Dagger                   |
+| Кактусовая Дубина              | Cactus Club                  |
+| Скрипящая Коса                 | Creaking Scythe              |
+| Магмовый Клинок                | Magma Blade                  |
+| Меч Звезды Ада                 | Nether Star Sword            |
+| Скалковый Меч                  | Skulk Sword                  |
+| Связыватель Душ                | Soul Binder                  |
 
 ***
 
