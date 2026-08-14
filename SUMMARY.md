@@ -12,6 +12,7 @@
 * [🪔 Кастомные зачарования](obshie-funkcii/kastomnye-zacharovaniya.md)
 * [📃 Листовка](obshie-funkcii/listovka.md)
 * [🧯 Огнетушитель](obshie-funkcii/ognetushitel.md)
+* [🎣 Рыбалка](obshie-funkcii/rybalka.md)
 * [⚔️ Легендарное оружие (почти)](obshie-funkcii/legendarnoe-oruzhie-pochti.md)
 * [🏆 Достижения и награды за время](obshie-funkcii/dostizheniya-i-nagrady-za-vremya.md)
 * [📦 Клетка для жителей](obshie-funkcii/kletka-dlya-zhitelei.md)
