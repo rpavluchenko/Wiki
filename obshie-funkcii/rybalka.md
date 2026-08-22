@@ -125,7 +125,7 @@ description: >-
 
 Приходят из кейсов **вместо одного из предметов**, а не сверх них:
 
-<table><thead><tr><th width="240">Редкость кейса</th><th>Шанс артефакта</th></tr></thead><tbody><tr><td>🟦 Редкий</td><td>2%</td></tr><tr><td>🟪 Эпический</td><td>6%</td></tr><tr><td>🟧 Легендарный</td><td>14%</td></tr><tr><td>🟥 Мифический</td><td>26%</td></tr></tbody></table>
+<table><thead><tr><th width="240">Редкость кейса</th><th>Шанс артефакта</th></tr></thead><tbody><tr><td>🟧 Легендарный</td><td>1%</td></tr><tr><td>🟥 Мифический</td><td>26%</td></tr></tbody></table>
 
 #### Работают на рыбалке
 
